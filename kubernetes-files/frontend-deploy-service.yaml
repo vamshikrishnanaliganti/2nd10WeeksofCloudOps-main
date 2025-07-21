@@ -21,7 +21,7 @@ spec:
         - containerPort: 80
         env:   # <-- Fixed indentation
         - name: REACT_APP_API_BASE_URL
-          value: "http://ada3ba860c95c4df19317bc3a4222dfe-174150505.us-east-1.elb.amazonaws.com"
+          value: "a818fc641fdfa45b7b4412c34abcd18f-748136540.ap-south-1.elb.amazonaws.com"
 
 ---
 apiVersion: v1
